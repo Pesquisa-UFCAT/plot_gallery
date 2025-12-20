@@ -8,3 +8,4 @@ pycache__/
 *.png
 *.jpg
 *.jpeg
+readme-generator.py
