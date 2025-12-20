@@ -4,8 +4,4 @@ pycache__/
 .DS_Store
 .vscode/
 .ipynb_checkpoints/
-*.svg
-*.png
-*.jpg
-*.jpeg
 readme-generator.py
