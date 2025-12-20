@@ -1,4 +1,4 @@
-# Galeria de Figuras
+# Gallery
 
 | Image | Description | Notebook |
 | :---: | :---: | :---: |
