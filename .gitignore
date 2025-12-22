@@ -4,4 +4,3 @@ pycache__/
 .DS_Store
 .vscode/
 .ipynb_checkpoints/
-readme-generator.py
