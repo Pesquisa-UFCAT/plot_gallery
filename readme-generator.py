@@ -3,17 +3,23 @@ import os
 # --- 1. Entrada de Dados (Mantenha a mesma ordem nas duas listas!) ---
 
 nomes_figuras = [
-                    'Traditional-lineplot.png',
-                    'Traditional-lineplot-with-axis-limit-control.png',
-                    'Traditional-contourplot.png',
-                    'Traditional-contourplot-With-Cmap.png'
+                    'line_example_sine_wave.png',
+                    'line_example_axis_limit_sine_wave.png',
+                    'line_example_axis_limit_invert_axis_sine__cosine_wave.png',
+                    'correlation_heatmap_using_correlation_info.png',
+                    'kde_histogram_one_variable.png',
+                    'kde_histogram_compare.png',
+                    'mix_predicted_vs_observed.png',
                 ]
 
 notebooks = [
                 r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_0.ipynb',
                 r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_1.ipynb',
-                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/countour%20line%20charts/countour_line_0.ipynb',
-                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/countour%20line%20charts/countour_line_1.ipynb'
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_2.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/heatmap%20charts/heatmap_0.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/histogram%20charts/kde_histogram_0.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/histogram%20charts/kde_histogram_1.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/mix%20charts/mix_scatter_line_0.ipynb',
             ]
 
 # (Opcional) Verificação de segurança para ver se não esqueceu nada

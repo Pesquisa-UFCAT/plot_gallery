@@ -2,7 +2,10 @@
 
 | Image | Description | Notebook |
 | :---: | :--- | :---: |
-| <img src='Traditional-lineplot.png' width='300'> | **Traditional-Lineplot** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_0.ipynb) |
-| <img src='Traditional-lineplot-with-axis-limit-control.png' width='300'> | **Traditional-Lineplot-With-Axis-Limit-Control** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_1.ipynb) |
-| <img src='Traditional-contourplot.png' width='300'> | **Traditional-Contourplot** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/countour%20line%20charts/countour_line_0.ipynb) |
-| <img src='Traditional-contourplot-With-Cmap.png' width='300'> | **Traditional-Contourplot-With-Cmap** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/countour%20line%20charts/countour_line_1.ipynb) |
+| <img src='line_example_sine_wave.png' width='300'> | **Line Example Sine Wave** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_0.ipynb) |
+| <img src='line_example_axis_limit_sine_wave.png' width='300'> | **Line Example Axis Limit Sine Wave** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_1.ipynb) |
+| <img src='line_example_axis_limit_invert_axis_sine__cosine_wave.png' width='300'> | **Line Example Axis Limit Invert Axis Sine  Cosine Wave** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/line%20charts/one_line_2.ipynb) |
+| <img src='correlation_heatmap_using_correlation_info.png' width='300'> | **Correlation Heatmap Using Correlation Info** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/heatmap%20charts/heatmap_0.ipynb) |
+| <img src='kde_histogram_one_variable.png' width='300'> | **Kde Histogram One Variable** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/histogram%20charts/kde_histogram_0.ipynb) |
+| <img src='kde_histogram_compare.png' width='300'> | **Kde Histogram Compare** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/histogram%20charts/kde_histogram_1.ipynb) |
+| <img src='mix_predicted_vs_observed.png' width='300'> | **Mix Predicted Vs Observed** | [See script](https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/mix%20charts/mix_scatter_line_0.ipynb) |
