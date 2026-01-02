@@ -10,7 +10,11 @@ nomes_figuras = [
                     'kde_histogram_compare.png',
                     'mix_predicted_vs_observed.png',
                     'scatter_example_sine_scatter.png',
-                    'scatter_example_sine_scatter_with_cmap.png'
+                    'scatter_example_sine_scatter_with_cmap.png',
+                    'bar_histogram.png',
+                    'bar_histogram_with_boxplot.png',
+                    'Traditional_cdf.png',
+                    'Traditional_cdf_with_kde.png',
                 ]
 notebooks = [
                 r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-line/one_line_0.ipynb',
@@ -21,7 +25,11 @@ notebooks = [
                 r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-histogram/kde_histogram_1.ipynb',
                 r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-mix/mix_scatter_line_0.ipynb',
                 r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-scatter/scatter_0.ipynb',
-                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-scatter/scatter_1.ipynb'
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-scatter/scatter_1.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-histogram/bar_histogram_0.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-histogram/bar_histogram_1.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-cdf/cdf_chart_0.ipynb',
+                r'https://github.com/Pesquisa-UFCAT/plot_gallery/blob/main/charts-cdf/cdf_with_kde_0.ipynb',
             ]
 
 # (Opcional) Verificação de segurança para ver se não esqueceu nada
